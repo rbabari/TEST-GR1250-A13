@@ -34,3 +34,6 @@ Ce dépot est un test dans le cadre du cours A13
 ## Publier le raedme.md
 1. activer le servereur web
 2. integrer du html dans votre readme.md
+
+
+## license MIT 
