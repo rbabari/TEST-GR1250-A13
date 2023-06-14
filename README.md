@@ -13,6 +13,8 @@ Ce dépot est un test dans le cadre du cours A13
 6. branche
 7. pull request
 8. merge
+   Merge la branche 12-8-merge
+   <img src="merge.png" width="100px">
 9. gerer un conflit 
 10. clone
 11. pull
