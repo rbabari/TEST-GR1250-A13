@@ -5,20 +5,30 @@ Ce dépot est un test dans le cadre du cours A13
 
 
 ## GitHub
-1. initialiser un dépot
-2. ajouter le gitignore
-3. choisir une licence (MIT / GNU) 
-4. ajouter des collaborateurs
-5. commit 
-6. branche
-7. pull request
-8. merge
-9. gerer un conflit 
-10. clone
-11. pull
-12. push
-13. utliser github Desktop
-14. configurer IDE Intelliji
+
+### 1. initialiser un dépot
+c'Est quoi ... .
+<img src="logo.png" alt="logo de l'institution" width="100px">
+
+
+### ajouter le gitignore
+sjdhvjsdhsdf
+<img src="logo.png" alt="logo de l'institution" width="100px">
+
+
+
+5. choisir une licence (MIT / GNU) 
+6. ajouter des collaborateurs
+7. commit 
+8. branche
+9. pull request
+10. merge
+11. gerer un conflit 
+12. clone
+13. pull
+14. push
+15. utliser github Desktop
+16. configurer IDE Intelliji
 
 ## Project
 1. créer un projet : SPRINT
