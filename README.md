@@ -34,7 +34,10 @@ sjdhvjsdhsdf
 <img src="logo.png" alt="logo de l'institution" width="100px">
 
 
-
+### 4. ajouter des collaborateurs
+<img src="addColab1.png" alt="ajouter des collaborateurs 1" width="400px">
+<img src="addColab2.png" alt="ajouter des collaborateurs 2" width="400px">
+<img src="addColab3.png" alt="ajouter des collaborateurs 3" width="400px">
 
 5. choisir une licence (MIT / GNU) 
 6. ajouter des collaborateurs
