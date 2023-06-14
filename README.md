@@ -10,6 +10,7 @@ Ce dépot est un test dans le cadre du cours A13
 3. choisir une licence (MIT / GNU) 
 4. ajouter des collaborateurs
 5. commit 
+-- faire un commit c'est ajouter un commentaire sur le travail fait.
 6. branche
 7. pull request
 8. merge
