@@ -6,6 +6,7 @@ Ce dépot est un test dans le cadre du cours A13
 
 ## GitHub
 
+
 ### 1. initialiser un dépot
 c'Est quoi ... .
 <img src="logo.png" alt="logo de l'institution" width="100px">
@@ -22,13 +23,15 @@ sjdhvjsdhsdf
 7. commit 
 8. branche
 9. pull request
-10. merge
-11. gerer un conflit 
-12. clone
-13. pull
-14. push
-15. utliser github Desktop
-16. configurer IDE Intelliji
+
+### 10. merge
+<img src="merge.png" width="100px">      
+12. gerer un conflit 
+13. clone
+14. pull
+15. push
+16. utliser github Desktop
+17. configurer IDE Intelliji
 
 ## Project
 1. créer un projet : SPRINT
