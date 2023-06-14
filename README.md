@@ -1,6 +1,9 @@
 # DEPOT TEST-GR1250-A13
 Ce dépot est un test dans le cadre du cours A13
 
+<img src="logo.jpg" alt="logo de l'institution" width="100px">
+
+
 ## GitHub
 1. initialiser un dépot
 2. ajouter le gitignore
