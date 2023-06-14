@@ -15,6 +15,14 @@ Ce dépot est un test dans le cadre du cours A13
 8. merge
 9. gerer un conflit 
 10. clone
+    - Premièrement, aller sur le repo et clicker sur le bouton code et copier le lien
+        <img src="clone_Screenshot.png">
+    - Deuxièmement, allez dans intelij et importer depuis version control
+        <img src="clone_Screenshot.png">
+    - Troixièmement, copier le lien HTTPS dans l'espace réservé pour l'URL
+      <img src="clone_Screenshot3.png">
+    - Finalement, allez dans votre branch
+        <img src="clone_Screenshot3.png">
 11. pull
 12. push
 13. utliser github Desktop
