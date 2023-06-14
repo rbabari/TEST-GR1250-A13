@@ -31,6 +31,7 @@ sjdhvjsdhsdf
 
 
 
+
 5. choisir une licence (MIT / GNU) 
 6. ajouter des collaborateurs
 ### 7. commit 
@@ -82,5 +83,7 @@ Finalement, allez dans votre branch
 9. fermer un issue après un merge de la branche.
 
 ## Publier le raedme.md
+
 1. activer le servereur web
+
 2. integrer du html dans votre readme.md
