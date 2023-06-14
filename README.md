@@ -6,6 +6,7 @@ Ce dépot est un test dans le cadre du cours A13
 
 ## GitHub
 
+
 ### 1. initialiser un dépot
 c'Est quoi ... .
 <img src="logo.png" alt="logo de l'institution" width="100px">
@@ -27,14 +28,34 @@ sjdhvjsdhsdf
 <img src="merge.png" width="100px">      
 12. gerer un conflit 
 ### 13. clone
+
+
 - how to a clone : From the list of repositories, click the repository you want to clone. To select the local directory into which you want to clone the repository, next to the "Local Path" field, click Choose... and navigate to the directory. At the bottom of the "Clone a Repository" window, click Clone.
 - sinon vous pouvez le faire sur Intelij directement
+
+Premièrement, aller sur le repo et clicker sur le bouton code et copier le lien
+        
+<img src="clone_Screenshot.png">
+   
+Deuxièmement, allez dans intelij et importer depuis version control
+
+<img src="clone_Screenshot2.png">
+    
+Troixièmement, copier le lien HTTPS dans l'espace réservé pour l'URL
+
+<img src="clone_Screenshot3.PNG">
+    
+Finalement, allez dans votre branch
+
+<img src="clone_Screenshot4.PNG">
+
 
 
 14. pull
 15. push
 16. utliser github Desktop
 17. configurer IDE Intelliji
+
 
 
 ## Project
