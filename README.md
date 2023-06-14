@@ -9,9 +9,7 @@ Ce dépot est un test dans le cadre du cours A13
 2. ajouter le gitignore
 3. choisir une licence (MIT / GNU) 
 4. ajouter des collaborateurs
-5. commit
--- un commit, c'est quand on fait des changements dans la branche sur laquelle on travaille, on doit mettre un commentaire 
--- qui décrit le travail fait.
+5. commit 
 6. branche
 7. pull request
 8. merge
