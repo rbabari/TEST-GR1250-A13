@@ -15,10 +15,11 @@ Ce dépot est un test dans le cadre du cours A13
 8. merge
 9. gerer un conflit 
 10. clone
-11. pull
-12. push
-13. utliser github Desktop
-14. configurer IDE Intelliji
+- how to a clone : From the list of repositories, click the repository you want to clone. To select the local directory into which you want to clone the repository, next to the "Local Path" field, click Choose... and navigate to the directory. At the bottom of the "Clone a Repository" window, click Clone.
+12. pull
+13. push
+14. utliser github Desktop
+15. configurer IDE Intelliji
 
 ## Project
 1. créer un projet : SPRINT
