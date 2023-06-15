@@ -41,6 +41,9 @@ J'ai ajouté le fichier .gitignore et j'ai rajouté dedans les fichiers à ignor
 -- faire un commit, c'est ajouter un commentaire sur le travail fait.
 9. branche
 10. pull request
+### 6. gérer un conflit
+Lors de la soumission d'un issue, un conflit peut apparaitre si la branche copie ne peut pas fusionner avec la branche main
+![conflict1.PNG](conflict1.PNG)
 
 ### 10. merge
 <img src="merge.png" width="100px">      
