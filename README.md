@@ -6,6 +6,8 @@ Ce dépot est un test dans le cadre du cours A13
 
 ## GitHub
 1. initialiser un dépot
+    <!--qu'est ce que initialiser un depot-->
+    ![img_1.png](img_1.png)
 2. ajouter le gitignore
 3. choisir une licence (MIT / GNU) 
 4. ajouter des collaborateurs
