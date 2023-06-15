@@ -44,7 +44,10 @@ J'ai ajouté le fichier .gitignore et j'ai rajouté dedans les fichiers à ignor
 ### 6. gérer un conflit
 Lors de la soumission d'un issue, un conflit peut apparaitre si la branche copie ne peut pas fusionner avec la branche main
 ![conflict1.PNG](conflict1.PNG)
-
+Il faut le resoudre soit en ligne de commande soit dans l'editeur en ligne et rajouter le .idea/modules.xml à .gitignore
+![conflict2.PNG](conflict2.PNG)
+Suite à notre résolution du conflit, nous pourrions fusionner la branche conflit avec celle du main.
+![conflictresolved.PNG](conflictresolved.PNG)
 ### 10. merge
 <img src="merge.png" width="100px">      
 12. gerer un conflit 
