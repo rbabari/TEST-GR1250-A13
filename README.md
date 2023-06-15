@@ -6,11 +6,7 @@ Ce dépot est un test dans le cadre du cours A13
 
 ## GitHub
 1. initialiser un dépot
-
-### 2. ajouter le gitignore
-J'ai ajouté le fichier .gitignore et j'ai rajouté dedans les fichiers à ignorer lors de mon ajout sur github.
-![gitignore.png](gitignore.png)
-
+2. ajouter le gitignore
 3. choisir une licence (MIT / GNU) 
 4. ajouter des collaborateurs
 5. commit 
@@ -29,9 +25,9 @@ c'Est quoi ... .
 <img src="logo.png" alt="logo de l'institution" width="100px">
 
 
-### ajouter le gitignore
-sjdhvjsdhsdf
-<img src="logo.png" alt="logo de l'institution" width="100px">
+### 2. ajouter le gitignore
+J'ai ajouté le fichier .gitignore et j'ai rajouté dedans les fichiers à ignorer lors de mon ajout sur github.
+![gitignore.png](gitignore.png)
 
 
 ### 4. ajouter des collaborateurs
