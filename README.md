@@ -34,8 +34,8 @@ J'ai ajouté le fichier .gitignore et j'ai rajouté dedans les fichiers à ignor
 
 ### 3. Choisir une licence (MIT / GNU)
 Le choix d'une licence est une décision importante, car elle aura un impact sur l'utilisation et la distribution de votre code par autrui. Avant de choisir une licence, assurez-vous d'avoir lu attentivement et compris les termes et les restrictions de la licence choisie.
-<img src="MIT_GNU01.png" alt="image pour choisir une licence MIT/GNU" width="100px">
-<img src="MIT_GNU02.png" alt="image pour choisir une licence MIT/GNU" width="100px">
+<img src="MIT_GNU01.png" alt="image pour choisir une licence MIT/GNU" width="400px">
+<img src="MIT_GNU02.png" alt="image pour choisir une licence MIT/GNU" width="400px">
 
 
 ### 4. ajouter des collaborateurs
