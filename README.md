@@ -41,7 +41,12 @@ J'ai ajouté le fichier .gitignore et j'ai rajouté dedans les fichiers à ignor
 6. ajouter des collaborateurs
 ### 7. commit 
 -- faire un commit, c'est ajouter un commentaire sur le travail fait.
-9. branche
+
+
+### 9 . Créer un branche
+//Il sera basé sur l'état du code de la branche actuelle. Vous pourrez apporter des modifications, soumettre du code et fusionner avec d'autres branches sur la nouvelle branche. Les branches fournissent une manière d'expérimenter, de corriger des erreurs ou d'ajouter de nouvelles fonctionnalités sans affecter la ligne principale du code.
+<img src="branche.png" alt="Créer un branche." width="400px">
+
 10. pull request
 ### 6. gérer un conflit
 Lors de la soumission d'un issue, un conflit peut apparaitre si la branche copie ne peut pas fusionner avec la branche main
