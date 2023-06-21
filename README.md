@@ -32,6 +32,12 @@ J'ai ajouté le fichier .gitignore et j'ai rajouté dedans les fichiers à ignor
 ![gitignore.png](gitignore.png)
 
 
+### 3. Choisir une licence (MIT / GNU)
+Le choix d'une licence est une décision importante, car elle aura un impact sur l'utilisation et la distribution de votre code par autrui. Avant de choisir une licence, assurez-vous d'avoir lu attentivement et compris les termes et les restrictions de la licence choisie.
+<img src="MIT_GNU01.png" alt="image pour choisir une licence MIT/GNU" width="400px">
+<img src="MIT_GNU02.png" alt="image pour choisir une licence MIT/GNU" width="400px">
+
+
 ### 4. ajouter des collaborateurs
 <img src="addColab1.png" alt="ajouter des collaborateurs 1" width="400px">
 <img src="addColab2.png" alt="ajouter des collaborateurs 2" width="400px">
